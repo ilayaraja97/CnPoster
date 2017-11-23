@@ -1,0 +1,35 @@
+# ethernet
+* developed in mid 1970s by researchers at xerox palo alto research center(PARC)
+* the general name for technology behind ethernet is CSMA/CD
+* ethernet has its roots in an early packet radio network called aloha
+* an ethernet network can't be bigger than 2500m in diameter
+* each ethernet frame can contain upto 1500 bytes of data and minimum of 64 bytes 
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
